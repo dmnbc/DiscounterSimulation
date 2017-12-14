@@ -1,0 +1,55 @@
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe.config
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.pdb
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\App.g.cs
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.cache
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.lref
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.g.resources
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.Properties.Resources.resources
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csproj.GenerateResource.Cache
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.exe
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.pdb
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\_display.g.cs
+C:\Users\Auke Swen\Source\Repos\CSharp\RaumdarstellungWpfApplication\RaumdarstellungWpfApplication\obj\Debug\_display.baml
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe.config
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.exe
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.pdb
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.pdb
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csprojResolveAssemblyReference.cache
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\MainWindow.g.cs
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\App.g.cs
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.cache
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.lref
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\MainWindow.baml
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.g.resources
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.Properties.Resources.resources
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csproj.GenerateResource.Cache
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\EinkaufszettelAnzeigen.g.cs
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\EinkaufszettelAnzeigen.baml
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe.config
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.exe
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.pdb
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.pdb
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\EinkaufszettelAnzeigen.g.cs
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\_display.g.cs
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\App.g.cs
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.cache
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication_MarkupCompile.lref
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\EinkaufszettelAnzeigen.baml
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\_display.baml
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.g.resources
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.Properties.Resources.resources
+C:\Users\Auke Swen\Documents\US_FIAE_24\Data\C#\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.csproj.GenerateResource.Cache
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\Regal_Info.g.cs
+C:\csharpWPF\RaumdarstellungMitRegale\RaumdarstellungWpfApplication\obj\Debug\Regal_Info.baml
+D:\Users\vm\Source\Repos\DiscounterSimulation2\RaumdarstellungWpfApplication\bin\Debug\RaumdarstellungWpfApplication.exe.config
+D:\Users\vm\Source\Repos\DiscounterSimulation2\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.exe
+D:\Users\vm\Source\Repos\DiscounterSimulation2\RaumdarstellungWpfApplication\obj\Debug\RaumdarstellungWpfApplication.pdb

@@ -1,0 +1,61 @@
+﻿<Window x:Class="RaumdarstellungWpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RaumdarstellungWpfApplication"
+        mc:Ignorable="d"
+        Title="Discounter Simulation" Height="600" Width="800" Loaded="Window_Loaded">
+    <Window.Resources> 
+        <Style TargetType="Label" x:Key="RaumStyle">
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Background" Value="Green" />
+            <Setter Property="Height" Value="30" />
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <ScrollViewer HorizontalScrollBarVisibility="Visible"
+                        VerticalScrollBarVisibility="Visible" BorderThickness="2">
+        <Canvas Height="1200" Width="1800" Name="canvas" HorizontalAlignment="Left" VerticalAlignment="Top" Background="LightGray">        
+            <DockPanel Name="raum" Margin="5,15,0,0">
+                <StackPanel DockPanel.Dock="Top" Background="CadetBlue" Width="1500" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Label Name="Umsatz" Content="Tagesumsatz 0.00€"/>
+                    <Label Name="gesamtWert" Content="Gesamtwert der Regale: " />
+                    <Label Name="Schwund" Content = "Schwund: -€" />
+                    <Menu Margin="20,0,20,0">
+                        <MenuItem Name="headerVerkauf" Header="Verkaufsraum" Margin="2" Click="headerVerkauf_Click"/>
+                        <MenuItem Name="headerLager" Header="Lager" Margin="2" Click="headerLager_Click"/>
+                    </Menu>
+                </StackPanel>
+            <StackPanel Name="steuerung" DockPanel.Dock="Left" Width="auto" Background="CadetBlue">
+                <Label  Height="auto" >Steuerung</Label>
+                <Button Name="start" Click="start_Click">Start</Button>
+                <Button Name="pause">Pause</Button>
+                <Button Name="weiter">Weiter</Button>
+             </StackPanel>
+            <Label DockPanel.Dock="Right" Width="auto" Background="CadetBlue">Right</Label>
+        <Label Name="bottom" DockPanel.Dock="Bottom" Width="auto" Background="CadetBlue" Margin="50,0,0,0">Info</Label>
+        <Button DockPanel.Dock="Bottom" >Ende</Button>
+        
+        <StackPanel Name="Verkauf" Orientation="Vertical" Margin="5,15,0,0">
+        <StackPanel.Resources>
+            <Style BasedOn="{StaticResource RaumStyle}" TargetType="{x:Type Label}">
+                <!--<Setter Property="BorderThickness" Value="1"/>
+                <Setter Property="Background" Value="Green" />
+                <Setter Property="Height" Value="30" />
+                <Setter Property="Width" Value="40"/>
+                <Setter Property="HorizontalContentAlignment" Value="Center"/>-->
+            </Style>
+        </StackPanel.Resources>    
+    </StackPanel>
+    <StackPanel Name="Lager" Orientation="Vertical" Margin="5,15,0,0">
+        <StackPanel.Resources>
+             <Style BasedOn="{StaticResource RaumStyle}" TargetType="{x:Type Label}"/>
+        </StackPanel.Resources>
+    </StackPanel>
+    </DockPanel>
+        
+    </Canvas>
+    </ScrollViewer>
+</Window>
